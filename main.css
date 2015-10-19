@@ -1,1 +1,38 @@
-.column-center {width:600px; margin:0 auto;}
+body {
+    background-color:#E9E9E9;
+    font-family: Arial;
+
+}
+
+.data {
+    background-color:white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 35px;
+    padding-right: 35px;
+
+}
+.column-center {
+    width:600px;
+    margin:0 auto;
+}
+
+h2 {
+    color: #AFB2B5
+}
+
+h3 {
+    color: #434649;
+}
+
+h4{
+    color: #66696A;
+}
+
+h5{
+    color: #66696A;
+}
+
+p {
+    color: #333;
+}
