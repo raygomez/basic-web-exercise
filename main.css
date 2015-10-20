@@ -11,11 +11,23 @@ body {
     padding-left: 35px;
     padding-right: 35px;
     margin-bottom: 10px;
-
 }
-.column-center {
-    width:600px;
-    margin:0 auto;
+.column-left{
+    float: left;
+    width: 20%;
+}
+
+.menu {
+    width: 100%;
+}
+.column-right{
+    float: right;
+    width: 20%;
+}
+
+.column-center{
+    display: inline-block;
+    width: 60%;
 }
 
 h2 {
